@@ -1,0 +1,12 @@
+.service-img {
+  width: 100%;
+}
+
+#msgFounder {
+  width: 70%;
+}
+@media only screen and (max-width: 562px) {
+  #msgFounder {
+    width: 100%;
+  }
+}
